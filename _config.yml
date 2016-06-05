@@ -1,0 +1,28 @@
+name: California Commons
+favicon: null
+layout_spectrum: 0.07961035869084299
+typography_spectrum: 0.5251614891458303
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.41302122245542705
+  lightness: 0.708357541821897
+  saturation: 0.5470392371062189
+  rhythmicContrast: 0.10228336951695383
+purpose: []
